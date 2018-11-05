@@ -1,0 +1,10 @@
+Django
+djangorestframework
+PyPI
+six
+psycopg2
+appdirs
+packaging
+pyparsing
+pytz
+psycopg2-binary

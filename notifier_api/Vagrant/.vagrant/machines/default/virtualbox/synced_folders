@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/workspace/notifier_api":{"guestpath":"/opt/workspace/notifier_api","hostpath":"/Volumes/POOPSHOOT/MyWorkDev/notifier_api/notifier_api","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Volumes/POOPSHOOT/MyWorkDev/notifier_api/notifier_api/Vagrant","disabled":false,"__vagrantfile":true}}}
